@@ -1,0 +1,13 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, sans-serif; color: #111; background: #fff; line-height: 1.6; }
+header { padding: 1rem 2rem; border-bottom: 1px solid #e5e7eb; }
+nav a { margin-right: 1.5rem; color: #2563eb; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+main { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+h1 { font-size: 2rem; margin-bottom: 1rem; }
+article h1 { font-size: 2.25rem; margin-bottom: 0.5rem; }
+article time { color: #6b7280; font-size: 0.875rem; }
+article .content { margin-top: 1.5rem; }
+article .content p { margin-bottom: 1rem; }
+article .content h2 { font-size: 1.5rem; margin: 1.5rem 0 0.5rem; }
+article .content img { max-width: 100%; height: auto; border-radius: 0.5rem; }
