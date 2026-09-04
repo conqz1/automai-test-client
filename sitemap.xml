@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://conqz1.github.io/</loc>
-    <lastmod>2026-09-04T12:22:34.939Z</lastmod>
+    <lastmod>2026-09-04T12:28:48.136Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://conqz1.github.io/blog</loc>
-    <lastmod>2026-09-04T12:22:34.939Z</lastmod>
+    <lastmod>2026-09-04T12:28:48.136Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://conqz1.github.io/blog/test-post</loc>
-    <lastmod>2026-09-04T12:22:34.701Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
