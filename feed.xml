@@ -5,8 +5,16 @@
     <link>https://automai-test-client.pages.dev/blog</link>
     <description>Latest posts from Test Client</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:01:06 GMT</lastBuildDate>
     <atom:link href="https://automai-test-client.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Token check</title>
+      <link>https://automai-test-client.pages.dev/blog/token-check-2026-09-19</link>
+      <guid isPermaLink="true">https://automai-test-client.pages.dev/blog/token-check-2026-09-19</guid>
+      <description>A temporary post confirming the dashboard can publish to GitHub from Render. It will be removed.</description>
+      <pubDate>Sat, 19 Sep 2026 17:01:06 GMT</pubDate>
+      <author>Automai</author>
+    </item>
     <item>
       <title>Hiiiiii</title>
       <link>https://automai-test-client.pages.dev/blog/hiiiiii</link>
